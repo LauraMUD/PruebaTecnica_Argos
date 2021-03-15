@@ -1,0 +1,9 @@
+wget==not installed
+pandas==1.2.3
+numpy==1.18.4
+datetime==unknown
+plotly==4.14.3
+scikit-learn==0.23.1
+matplotlib==3.2.1
+watermark==2.2.0
+fbprophet==0.7.1
