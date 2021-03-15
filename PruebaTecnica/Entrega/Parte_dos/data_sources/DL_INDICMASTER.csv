@@ -1,0 +1,40 @@
+﻿SOURCE;GRUPO;ABR;KEY;UNITY;COUNTRY;frecuencia;type;DETALLE
+BANCO;INDICE PRECIOS VIVIENDA USADA (ANUAL);ipvu_an;BANCO_ipvu_an;IND;CO;YEARLY;dl;Indice precio vivienda usada a nivel ciudades
+BANCO;INDICE PRECIOS VIVIENDA USADA (TRIMESTRAL);ipvu_qu;BANCO_ipvu_qu;IND;CO;QUARTELY;dl;Indice precio vivienda usada a nivel nacional
+CMCOL;LICENCIAS OFERTAS;lic_ofer;CMCOL_lic_ofer;UNI;CO;MONTHLY;dl;Licencias ofertas a nivel departamento
+CMCOL;LICENCIAS VENTAS;lic_vent;CMCOL_lic_vent;UNI;CO;MONTHLY;dl;Licencias ventas a nivel departamento
+CMCOL;LICENCIAS INICIACIONES;lic_inic;CMCOL_lic_inic;UNI;CO;MONTHLY;dl;Licencias iniciaciones a nivel departamento
+CMCOL;LICENCIAS LANZAMIENTOS;lic_lanz;CMCOL_lic_lanz;UNI;CO;MONTHLY;dl;Licencias lanzamientos a nivel departamento
+CMCOL;MERCADO CEMENTO;cm;CMCOL_cm;TON;CO;MONTHLY;calculated;Mercado cemento por departamento antes 2009
+DN;MERCADO CEMENTO DEPTO CANAL;cm;DN_cm;TON;CO;MONTHLY;dl;Mercado cemento por departamento y canal de distribución
+DN;MERCADO READY MIX;rx;DN_rx;M3;CO;MONTHLY;dl;Mercado cemento por departamento y canal de distribución
+DN;PIB TOTAL;pib;DN_pib;MM;CO;QUARTELY;dl;PIB nacional
+DN;PIB SECTORES;pib_sec;DN_pib_sec;MM;CO;QUARTELY;dl;PIB sectorial
+DN;PIB CONSTRUCCION;pib_cons;DN_pib_cons;MM;CO;QUARTELY;dl;PIB construccion
+DN;TASA DESEMPLEO;td;DN_td;PERC;CO;MONTHLY;dl;Tasa desempleo nacional
+DN;TASA DESEMPLEO AREAS;td_areas;DN_td_areas;PERC;CO;MONTHLY;dl;Tasa desempleo nacional 13 areas principales
+DN;ISE GENERAL;ise;DN_ise;IND;CO;MONTHLY;dl;Indice seguimiento economia
+DN;ISE DESESTACIONALIZADO;ise_desest;DN_ise_desest;IND;CO;MONTHLY;dl;Indice seguimiento economia desestacionalizado
+DN;INDICE PRECIO CONSUMIDOR;ipc;DN_ipc;PERC;CO;MONTHLY;dl;IPC a nivel nacional total
+DN;CORE INFLATION;ipc_core;DN_ipc_core;PERC;CO;MONTHLY;dl;IPC a nivel nacional total sin alimentos
+DN;LICENCIAS;lic;DN_lic;M2;CO;MONTHLY;dl;Licencias generales
+DN;MERCADO CEMENTO DEPTO EMPAQUE;cm_de;DN_cm_de;TON;CO;MONTHLY;dl;Mercado cemento por departamento y tipo de empaque
+USGS;INTERNAL - GRAY CEMENT;cm_in;USGS_cm_in;TON;US;MONTHLY;dl;Portland cement shipments by destination
+USGS;IMPORT - GRAY CEMENT;cm_im;USGS_cm_im;TON;US;MONTHLY;dl;Portland cement importation by country
+USGS;IMPORT - WHITE CEMENT;cmw_im;USGS_cmw_im;TON;US;MONTHLY;dl;White cement importation by country
+DODGE;MARKET DEMAND FORECAST - READY MIX;fore_rdy;DODGE_fore_rdy;MM;US;QUARTELY;dl;Ready Mix
+DN;INDICE PRECIOS VIVIENDA NUEVA;ipvn;DN_ipvn;PERC;CO;QUARTELY;dl;Indice de precios de vivienda nueva por ciudades
+DN;INDICE PRECIOS PRODUCTOR;ipp;DN_ipp;IND;CO;MONTHLY;dl;Indices de precios del productor (cemento)
+DN;INDICE COSTOS CONSTRUCCION PESADA;iccp;DN_iccp;PERC;CO;MONTHLY;dl;Indice de costos de la construcción pesada
+DN;INDICE COSTOS CONSTRUCCION VIVIENDA;iccv;DN_iccv;PERC;CO;MONTHLY;dl;Indice de costos de la construcción vivienda
+DN;IIOC OBLIGACIONES;iioc_obl;DN_iioc_obl;IND;CO;QUARTELY;dl;Indicador de inversión de obras civiles obligaciones
+DN;IIOC PAGOS;iioc_pag;DN_iioc_pag;IND;CO;QUARTELY;dl;Indicador de inversión de obras civiles pagos
+DN;LICENCIAS DEST DEPTO;lic_dest_depto;DN_lic_dest_depto;M2;CO;MONTHLY;dl;Licencias a nivel destino departamento
+SUPER;CARTERA TIPOS;cart_tipos;SUPER_cart_tipos;M;CO;MONTHLY;dl;Cartera del sistema financiero por tipo
+SUPER;CARTERA ORIGINAL;cart_orig;SUPER_cart_orig;M;CO;MONTHLY;dl;Cartera del sistema financiero por segmento
+CMCOL;LICENCIAS OFERTAS AREA;lic_areas_ofer;CMCOL_lic_areas_ofer;M2;CO;MONTHLY;dl;Licencias ofertas a nivel departamento areas
+CMCOL;LICENCIAS VENTAS AREA;lic_areas_vent;CMCOL_lic_areas_vent;M2;CO;MONTHLY;dl;Licencias ventas a nivel departamento areas
+CMCOL;LICENCIAS INICIACIONES AREA;lic_areas_inic;CMCOL_lic_areas_inic;M2;CO;MONTHLY;dl;Licencias iniciaciones a nivel departamento areas
+CMCOL;LICENCIAS LANZAMIENTOS AREA;lic_areas_lanz;CMCOL_lic_areas_lanz;M2;CO;MONTHLY;dl;Licencias lanzamientos a nivel departamento areas
+DN;MERCADO CEMENTO CANAL;cm_c;DN_cm_c;TON;CO;MONTHLY;dl;Mercado cemento por canal de distribucion
+DODGE;MARKET DEMAND FORECAST - PIP;fore_pip;DODGE_fore_pip;MM;US;QUARTELY;dl;Put in place value

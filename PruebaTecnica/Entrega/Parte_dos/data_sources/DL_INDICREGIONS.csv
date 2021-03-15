@@ -1,0 +1,95 @@
+﻿REGION_CODE;REGION_NAME;REGION_LAT;REGION_LONG;REGION_ZONE;REGION_LOCATION;COUNTRY_CODE;REGION_ABR
+00;Resto;NULL;NULL;Sin asignar;Resto, Colombia;CO;NULL
+00;Alabama;32.806671000;-86.791130000;NULL;Alabama, United States;US;AL
+08;Atlántico;10.983333000;-74.783333000;Norte;Atlántico, Colombia;CO;NULL
+01;Alaska;61.370716000;-152.404419000;NULL;Alaska, United States;US;AK
+13;Bolívar;10.400000000;-75.500000000;Noroccidente;Bolívar, Colombia;CO;NULL
+02;Arizona;33.729759000;-111.431221000;NULL;Arizona, United States;US;AZ
+17;Caldas;5.100000000;-75.550000000;Noroccidente;Caldas, Colombia;CO;NULL
+03;Arkansas;34.969704000;-92.373123000;NULL;Arkansas, United States;US;AR
+19;Cauca;2.450000000;-76.616667000;Suroccidente;Cauca, Colombia;CO;NULL
+04;California;36.116203000;-119.681564000;NULL;California, United States;US;CA
+23;Córdoba;8.750000000;-75.883333300;Norte;Córdoba, Colombia;CO;NULL
+05;Colorado;39.059811000;-105.311104000;NULL;Colorado, United States;US;CO
+27;Chocó;5.700000000;-76.666667000;Noroccidente;Chocó, Colombia;CO;NULL
+06;Connecticut;41.597782000;-72.755371000;NULL;Connecticut, United States;US;CT
+44;La Guajira;11.550000000;-72.900000000;Norte;La Guajira, Colombia;CO;NULL
+07;Delaware;39.318523000;-75.507141000;NULL;Delaware, United States;US;DE
+50;Meta;4.150000000;-73.633333000;Centro;Meta, Colombia;CO;NULL
+08;District of Columbia;38.897438000;-77.026817000;NULL;District of Columbia, United States;US;DC
+54;Norte de Santander;7.900000000;-72.500000000;Centro;Norte de Santander, Colombia;CO;NULL
+09;Florida;27.766279000;-81.686783000;NULL;Florida, United States;US;FL
+66;Risaralda;4.816667000;-75.700000000;Suroccidente;Risaralda, Colombia;CO;NULL
+10;Georgia;33.040619000;-83.643074000;NULL;Georgia, United States;US;GA
+70;Sucre;9.300000000;-75.233333000;Norte;Sucre, Colombia;CO;NULL
+11;Hawaii;21.094318000;-157.498337000;NULL;Hawaii, United States;US;HI
+76;Valle del Cauca;3.416667000;-76.516667000;Suroccidente;Valle del Cauca, Colombia;CO;NULL
+12;Idaho;44.240459000;-114.478828000;NULL;Idaho, United States;US;ID
+85;Casanare;5.350000000;-72.410000000;Centro;Casanare, Colombia;CO;NULL
+13;Illinois;40.349457000;-88.986137000;NULL;Illinois, United States;US;IL
+88;Archipiélago de San Andrés, Providencia y Santa Catalina;12.550000000;-81.716667000;Norte;Archipiélago de San Andrés, Providencia y Santa Catalina, Colombia;CO;NULL
+14;Indiana;39.849426000;-86.258278000;NULL;Indiana, United States;US;IN
+94;Guainía;3.865278000;-67.923889000;Centro;Guainía, Colombia;CO;NULL
+15;Iowa;42.011539000;-93.210526000;NULL;Iowa, United States;US;IA
+97;Vaupés;1.200000000;-70.166667000;Centro;Vaupés, Colombia;CO;NULL
+16;Kansas;38.526600000;-96.726486000;NULL;Kansas, United States;US;KS
+17;Kentucky;37.668140000;-84.670067000;NULL;Kentucky, United States;US;KY
+05;Antioquia;6.216667000;-75.566667000;Noroccidente;Antioquia, Colombia;CO;NULL
+18;Louisiana;31.169546000;-91.867805000;NULL;Louisiana, United States;US;LA
+11;Bogotá, D.C.;4.598889000;-74.080833000;Centro;Bogotá, D.C., Colombia;CO;NULL
+19;Maine;44.693947000;-69.381927000;NULL;Maine, United States;US;ME
+15;Boyacá;5.533333000;-73.366667000;Centro;Boyacá, Colombia;CO;NULL
+20;Maryland;39.063946000;-76.802101000;NULL;Maryland, United States;US;MD
+18;Caquetá;1.616667000;-75.600000000;Centro;Caquetá, Colombia;CO;NULL
+21;Massachusetts;42.230171000;-71.530106000;NULL;Massachusetts, United States;US;MA
+20;Cesar;10.483333300;-73.250000000;Norte;Cesar, Colombia;CO;NULL
+22;Michigan;43.326618000;-84.536095000;NULL;Michigan, United States;US;MI
+25;Cundinamarca;5.025471420;-73.994475700;Centro;Cundinamarca, Colombia;CO;NULL
+23;Minnesota;45.694454000;-93.900192000;NULL;Minnesota, United States;US;MN
+41;Huila;2.998611000;-75.304444000;Centro;Huila, Colombia;CO;NULL
+47;Magdalena;11.241944000;-74.205278000;Norte;Magdalena, Colombia;CO;NULL
+52;Nariño;1.166667000;-77.266667000;Suroccidente;Nariño, Colombia;CO;NULL
+63;Quindio;4.533333000;-75.700000000;Suroccidente;Quindio, Colombia;CO;NULL
+68;Santander;7.133333000;-73.000000000;Centro;Santander, Colombia;CO;NULL
+73;Tolima;4.433333000;-75.233333000;Centro;Tolima, Colombia;CO;NULL
+81;Arauca;7.083333000;-70.750000000;Centro;Arauca, Colombia;CO;NULL
+86;Putumayo;1.150000000;-76.616667000;Centro;Putumayo, Colombia;CO;NULL
+91;Amazonas;-4.205278000;-69.932778000;Centro;Amazonas, Colombia;CO;NULL
+95;Guaviare;2.566667000;-72.633333300;Centro;Guaviare, Colombia;CO;NULL
+99;Vichada;6.183330000;-67.466670000;Centro;Vichada, Colombia;CO;NULL
+24;Mississippi;32.741646000;-89.678696000;NULL;Mississippi, United States;US;MS
+25;Missouri;38.456085000;-92.288368000;NULL;Missouri, United States;US;MO
+26;Montana;46.921925000;-110.454353000;NULL;Montana, United States;US;MT
+27;Nebraska;41.125370000;-98.268082000;NULL;Nebraska, United States;US;NE
+28;Nevada;38.313515000;-117.055374000;NULL;Nevada, United States;US;NV
+29;New Hampshire;43.452492000;-71.563896000;NULL;New Hampshire, United States;US;NH
+30;New Jersey;40.298904000;-74.521011000;NULL;New Jersey, United States;US;NJ
+31;New Mexico;34.840515000;-106.248482000;NULL;New Mexico, United States;US;NM
+32;New York;42.165726000;-74.948051000;NULL;New York, United States;US;NY
+33;North Carolina;35.630066000;-79.806419000;NULL;North Carolina, United States;US;NC
+34;North Dakota;47.528912000;-99.784012000;NULL;North Dakota, United States;US;ND
+35;Ohio;40.388783000;-82.764915000;NULL;Ohio, United States;US;OH
+36;Oklahoma;35.565342000;-96.928917000;NULL;Oklahoma, United States;US;OK
+37;Oregon;44.572021000;-122.070938000;NULL;Oregon, United States;US;OR
+38;Pennsylvania;40.590752000;-77.209755000;NULL;Pennsylvania, United States;US;PA
+39;Rhode Island;41.680893000;-71.511780000;NULL;Rhode Island, United States;US;RI
+40;South Carolina;33.856892000;-80.945007000;NULL;South Carolina, United States;US;SC
+41;South Dakota;44.299782000;-99.438828000;NULL;South Dakota, United States;US;SD
+42;Tennessee;35.747845000;-86.692345000;NULL;Tennessee, United States;US;TN
+43;Texas;31.054487000;-97.563461000;NULL;Texas, United States;US;TX
+44;Utah;40.150032000;-111.862434000;NULL;Utah, United States;US;UT
+45;Vermont;44.045876000;-72.710686000;NULL;Vermont, United States;US;VT
+46;Virginia;37.769337000;-78.169968000;NULL;Virginia, United States;US;VA
+47;Washington;47.400902000;-121.490494000;NULL;Washington, United States;US;WA
+48;West Virginia;38.491226000;-80.954453000;NULL;West Virginia, United States;US;WV
+49;Wisconsin;44.268543000;-89.616508000;NULL;Wisconsin, United States;US;WI
+50;Wyoming;42.755966000;-107.302490000;NULL;Wyoming, United States;US;WY
+51;American Samoa;-14.306407100;-170.695017500;NULL;American Samoa, United States;US;AS
+52;Guam;13.450207600;144.787458400;NULL;Guam, United States;US;GU
+53;Marshall Islands;11.604020900;165.313311100;NULL;Marshall Islands, United States;US;MH
+54;Micronesia;6.887481300;158.215071700;NULL;Micronesia, United States;US;FM
+55;Northern Marianas;15.106389600;145.706524400;NULL;Northern Marianas, United States;US;MP
+56;Palau;7.366330700;134.434094100;NULL;Palau, United States;US;PW
+57;Puerto Rico;18.198719200;-66.352674700;NULL;Puerto Rico, United States;US;PR
+58;Virgin Islands;18.343441500;-64.867163400;NULL;Virgin Islands, United States;US;VI
+100;United States;NULL;NULL;NULL;United States;US;US
